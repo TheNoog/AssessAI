@@ -1,8 +1,9 @@
-# Firebase Studio
+# AssessAI
 
-This is a NextJS starter in Firebase Studio.
+![AssessAI Dashboard](dashboard.png)
 
-To get started, take a look at `src/app/page.tsx`.
+
+<br />
 
 ## Running the Development Environment
 
